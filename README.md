@@ -16,6 +16,7 @@ Bilingual (EN/DE), statically exported, deployable to any static host.
 ```bash
 npm run dev     # local dev server
 npm run build   # static export into out/ (incl. root-index fix)
+npm start       # serve out/ statically (for hosts that require npm start)
 npm run lint    # eslint
 ```
 
@@ -51,9 +52,18 @@ messages/                   # en.json, de.json
 
 ## Deployment
 
-`npm run build` produces a fully static `out/` folder — upload it to any
-static host (nginx, Apache, Netlify, …). Routes use trailing slashes, so a
-plain file server works out of the box.
+`npm run build` produces a fully static `out/` folder. Two ways to host it:
+
+1. **Static hosting (recommended):** point the host at the `out/` folder — no
+   Node server needed (nginx, Apache, Netlify, GitHub Pages, …). Routes use
+   trailing slashes, so a plain file server works out of the box.
+2. **Node host that runs `npm start`:** works too — the start script runs
+   `scripts/static-server.mjs`, a tiny dependency-free static server for `out/`
+   that respects the `PORT` env var. Just make sure `npm run build` runs first
+   (set it as the host's build command).
+
+Note: `next start` does **not** work with `output: 'export'` — that's why the
+custom start script exists.
 
 > The privacy policy and terms are placeholder texts — have them reviewed
 > before going live.
