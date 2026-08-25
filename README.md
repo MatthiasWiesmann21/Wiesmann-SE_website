@@ -1,0 +1,59 @@
+# Wiesmann Software Engineering — Website
+
+Business website of **Wiesmann Software Engineering** (one-person software studio).
+Bilingual (EN/DE), statically exported, deployable to any static host.
+
+## Tech stack
+
+- **Next.js 16** (App Router, `output: 'export'`) + TypeScript
+- **Tailwind CSS v4** (CSS-first config via `@theme` in `src/app/globals.css`)
+- **next-intl** — locales `en` (`/en`) and `de` (`/de`), root `/` meta-refreshes to `/en/`
+- **Framer Motion** — scroll/hover animations
+- **lucide-react** — icons
+
+## Commands
+
+```bash
+npm run dev     # local dev server
+npm run build   # static export into out/ (incl. root-index fix)
+npm run lint    # eslint
+```
+
+## Where to edit content
+
+| What | Where |
+| --- | --- |
+| Contact details, domain, socials, solution slugs | `src/config/site.ts` |
+| All page copy (EN) | `messages/en.json` |
+| All page copy (DE) | `messages/de.json` |
+| Theme colors / fonts / animations | `src/app/globals.css` (`@theme`) |
+| Contact form endpoint | `formEndpoint` in `src/config/site.ts` (empty = mailto fallback) |
+
+## Structure
+
+```
+src/
+  app/
+    route.ts                # / -> /en/ meta-refresh (static HTML)
+    [locale]/               # all pages, once per locale
+      page.tsx              # landing
+      company/page.tsx
+      contact/page.tsx
+      solutions/[slug]/page.tsx
+      privacy/page.tsx
+      terms/page.tsx
+    sitemap.ts robots.ts manifest.ts
+  components/               # ui / layout / sections / svg / motion
+  config/site.ts            # single source of truth for details
+  i18n/                     # next-intl routing + request config
+messages/                   # en.json, de.json
+```
+
+## Deployment
+
+`npm run build` produces a fully static `out/` folder — upload it to any
+static host (nginx, Apache, Netlify, …). Routes use trailing slashes, so a
+plain file server works out of the box.
+
+> The privacy policy and terms are placeholder texts — have them reviewed
+> before going live.

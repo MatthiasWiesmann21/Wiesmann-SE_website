@@ -1,0 +1,552 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Wiesmann Software Engineering — Web & Mobile App Development",
+      "description": "One-person software studio for web development, mobile apps, SEO, branding and technical consulting. From idea to shipped product."
+    },
+    "company": {
+      "title": "Company — Wiesmann Software Engineering",
+      "description": "Learn more about Wiesmann Software Engineering, a one-person software studio run by Matthias Wiesmann."
+    },
+    "contact": {
+      "title": "Contact — Wiesmann Software Engineering",
+      "description": "Get in touch about your web or mobile app project, SEO, branding or consulting needs."
+    },
+    "privacy": {
+      "title": "Privacy Policy — Wiesmann Software Engineering",
+      "description": "Privacy policy of Wiesmann Software Engineering."
+    },
+    "terms": {
+      "title": "Terms of Service — Wiesmann Software Engineering",
+      "description": "Terms of service of Wiesmann Software Engineering."
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Home",
+      "company": "Company",
+      "solutions": "Solutions",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "startProject": "Start a project",
+      "getInTouch": "Get in touch",
+      "learnMore": "Learn more",
+      "viewSolution": "View solution",
+      "send": "Send message",
+      "sending": "Sending…"
+    },
+    "languageSwitcher": {
+      "label": "Language",
+      "en": "EN",
+      "de": "DE"
+    },
+    "mobileMenu": {
+      "open": "Open menu",
+      "close": "Close menu"
+    },
+    "footer": {
+      "tagline": "Web & mobile apps, built with care by one dedicated engineer.",
+      "navigation": "Navigation",
+      "solutions": "Solutions",
+      "legal": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact",
+      "rights": "All rights reserved."
+    },
+    "notFound": {
+      "title": "Page not found",
+      "description": "The page you are looking for does not exist or has been moved.",
+      "backHome": "Back to home"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "One-person software studio",
+      "title": "Ideas in. Apps out.",
+      "subtitle": "I'm Matthias — I design, build and launch web and mobile applications for businesses that want things done properly, not just done.",
+      "primaryCta": "Start a project",
+      "secondaryCta": "Explore solutions",
+      "orbitCenter": "Your idea"
+    },
+    "services": {
+      "eyebrow": "What I do",
+      "title": "Five ways I can help",
+      "subtitle": "From first sketch to launch day — everything your digital product needs, from a single point of contact.",
+      "items": {
+        "web-development": {
+          "title": "Web Development",
+          "description": "Fast, accessible websites and web apps built with modern frameworks."
+        },
+        "mobile-app-development": {
+          "title": "Mobile App Development",
+          "description": "Native-feel iOS and Android apps from a single codebase."
+        },
+        "seo": {
+          "title": "SEO",
+          "description": "Get found. Technical and content SEO that brings the right visitors."
+        },
+        "branding": {
+          "title": "Branding",
+          "description": "A look and voice people remember — logo, colors, and design system."
+        },
+        "consulting": {
+          "title": "Business & Technical Consulting",
+          "description": "Refine your idea into a concrete, buildable product plan."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "The company",
+      "title": "One engineer. Full ownership.",
+      "text": "Wiesmann Software Engineering is my one-person studio. That means you always talk directly to the person writing your code — no hand-offs, no telephone game, no surprises.",
+      "points": [
+        "Direct communication with the developer",
+        "Senior-level work on every project",
+        "Honest advice, even when it's 'you don't need that'"
+      ],
+      "cta": "More about the company"
+    },
+    "process": {
+      "eyebrow": "How we work",
+      "title": "From idea to launch in four steps",
+      "steps": [
+        {
+          "title": "Discover",
+          "description": "We talk about your goals, your users, and what success looks like."
+        },
+        {
+          "title": "Design",
+          "description": "Wireframes and a visual direction you can react to — before any code."
+        },
+        {
+          "title": "Build",
+          "description": "Iterative development with regular demos, so you're never in the dark."
+        },
+        {
+          "title": "Launch & grow",
+          "description": "Deployment, analytics, SEO basics — and support after go-live."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Have an idea? Let's make it real.",
+      "subtitle": "Tell me about your project — I'll get back to you within one business day.",
+      "button": "Get in touch"
+    }
+  },
+  "company": {
+    "hero": {
+      "eyebrow": "Company",
+      "title": "Small by choice. Serious by nature.",
+      "subtitle": "Wiesmann Software Engineering is a one-person studio — deliberately. Here's why that's good for your project."
+    },
+    "story": {
+      "title": "The story",
+      "paragraphs": [
+        "After years of building web and mobile products in teams of all sizes, I founded Wiesmann Software Engineering to work the way I believe great software gets made: one accountable expert, close to the client, from first idea to final deploy.",
+        "Based in Switzerland, I work with founders, small businesses and teams who need a senior engineer who also understands branding, SEO and the business side of shipping software."
+      ]
+    },
+    "founder": {
+      "title": "The founder",
+      "name": "Matthias Wiesmann",
+      "role": "Founder & Software Engineer",
+      "bio": "Web and mobile developer with experience across the full product lifecycle — from refining rough business ideas into concrete requirements, to designing, building, launching and marketing digital products.",
+      "skillsTitle": "What I bring",
+      "skills": [
+        "Web development (Next.js, React, TypeScript)",
+        "Mobile apps (iOS & Android, cross-platform)",
+        "SEO & performance optimization",
+        "Branding & design systems",
+        "Product & technical consulting"
+      ]
+    },
+    "values": {
+      "title": "How I work",
+      "items": [
+        {
+          "title": "Ownership",
+          "description": "Your project is never passed down the line. I plan it, build it and stand behind it."
+        },
+        {
+          "title": "Clarity",
+          "description": "Plain language, honest estimates, no jargon walls. You always know where things stand."
+        },
+        {
+          "title": "Quality",
+          "description": "Fast, accessible, maintainable software. Boring technology where possible, innovation where it counts."
+        },
+        {
+          "title": "Partnership",
+          "description": "I succeed when your product succeeds — so I'll challenge ideas that won't work and champion the ones that will."
+        }
+      ]
+    },
+    "tradeoff": {
+      "title": "One person — the honest math",
+      "plus": {
+        "title": "The price advantage",
+        "description": "No account managers, no office overhead, no agency margin stacked on top. You pay for senior work actually done — not for keeping a big team busy. That makes professional quality noticeably more affordable."
+      },
+      "minus": {
+        "title": "The honest trade-off",
+        "description": "I'm usually deep in one or two client projects, so — emergencies aside — I'm not reachable all day, every day. In return, you'll always know exactly when I'm available and what I'm working on for you right now."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Let's talk about your project",
+      "subtitle": "Whether it's a rough idea or a detailed brief — send me a message and I'll reply within one business day."
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your project…",
+      "send": "Send message",
+      "sending": "Sending…",
+      "success": "Thanks! Your message is on its way — I'll get back to you soon.",
+      "error": "Something went wrong. Please try again or email me directly.",
+      "required": "This field is required"
+    },
+    "info": {
+      "title": "Contact details",
+      "emailLabel": "Email",
+      "addressLabel": "Address",
+      "socialsLabel": "Elsewhere"
+    }
+  },
+  "solutions": {
+    "cta": {
+      "title": "Ready to talk it through?",
+      "subtitle": "Every project starts with a free, no-obligation conversation.",
+      "button": "Get in touch"
+    },
+    "featuresTitle": "What's included",
+    "processTitle": "How it works",
+    "faqTitle": "Common questions",
+    "web-development": {
+      "title": "Web Development",
+      "metaDescription": "Fast, accessible websites and web applications built with modern frameworks like Next.js and React.",
+      "tagline": "Websites and web apps that feel instant",
+      "description": "From marketing sites to complex web applications — I build fast, accessible, maintainable products with modern tools like Next.js, React and TypeScript.",
+      "features": [
+        {
+          "title": "Modern stack",
+          "description": "Next.js, React and TypeScript — proven technology that loads fast and ranks well."
+        },
+        {
+          "title": "Performance-first",
+          "description": "Core Web Vitals in the green from day one, because speed is a feature."
+        },
+        {
+          "title": "Accessible by default",
+          "description": "Semantic HTML and WCAG-minded design so everyone can use your product."
+        },
+        {
+          "title": "Easy to maintain",
+          "description": "Clean, documented code you (or any future developer) can actually work with."
+        }
+      ],
+      "process": [
+        {
+          "title": "Scope",
+          "description": "We define pages, features and integrations — and cut what's not needed."
+        },
+        {
+          "title": "Design",
+          "description": "A clickable design you approve before development starts."
+        },
+        {
+          "title": "Build & launch",
+          "description": "Iterative development, then deployment with analytics and SEO baked in."
+        }
+      ],
+      "faq": [
+        {
+          "question": "How long does a typical website take?",
+          "answer": "A focused marketing site usually ships in 3–6 weeks. Larger web applications depend on scope — you'll get an honest estimate after our first call."
+        },
+        {
+          "question": "Can you extend my existing site?",
+          "answer": "Yes. I regularly take over and modernize existing codebases, and I'll tell you honestly if a rebuild makes more sense."
+        },
+        {
+          "question": "Do you host the site?",
+          "answer": "I set up hosting on your own accounts (Vercel, Netlify or your own server), so everything stays in your ownership."
+        }
+      ]
+    },
+    "mobile-app-development": {
+      "title": "Mobile App Development",
+      "metaDescription": "Cross-platform iOS and Android apps from a single codebase — designed, built and published.",
+      "tagline": "One codebase. Both app stores.",
+      "description": "I build cross-platform mobile apps for iOS and Android that feel native — from the first wireframe to App Store and Google Play submission.",
+      "features": [
+        {
+          "title": "Cross-platform efficiency",
+          "description": "One codebase for iOS and Android keeps costs down and quality up."
+        },
+        {
+          "title": "Native feel",
+          "description": "Smooth animations, platform conventions and offline-first behavior where it matters."
+        },
+        {
+          "title": "Store-ready",
+          "description": "I handle signing, screenshots and the submission process for both stores."
+        },
+        {
+          "title": "Backend included",
+          "description": "APIs, push notifications, auth and data sync — the full package, not just the UI."
+        }
+      ],
+      "process": [
+        {
+          "title": "Validate",
+          "description": "We sharpen the core use case your app must nail — and drop the rest."
+        },
+        {
+          "title": "Prototype",
+          "description": "A testable build on real devices within weeks, not months."
+        },
+        {
+          "title": "Ship & iterate",
+          "description": "Store submission, then measured improvements based on real usage."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Native or cross-platform?",
+          "answer": "For most business apps, cross-platform (e.g. React Native / Flutter) is the pragmatic choice. If your app truly needs native, I'll say so."
+        },
+        {
+          "question": "How much does an app cost?",
+          "answer": "A focused MVP typically starts in the mid five-figure range. After a free scoping call you'll get a fixed, honest estimate."
+        },
+        {
+          "question": "Do you maintain apps after launch?",
+          "answer": "Yes — I offer maintenance agreements covering updates, store requirements and new OS versions."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO",
+      "metaDescription": "Technical and content SEO that brings the right visitors — audits, on-page optimization and measurable results.",
+      "tagline": "Be found by the right people",
+      "description": "SEO is not magic — it's solid technology plus useful content. I audit, fix and optimize so search engines and humans both love your site.",
+      "features": [
+        {
+          "title": "Technical audit",
+          "description": "Crawlability, indexing, structured data, Core Web Vitals — the full technical picture."
+        },
+        {
+          "title": "On-page optimization",
+          "description": "Titles, meta descriptions, headings and internal linking that actually match search intent."
+        },
+        {
+          "title": "Content guidance",
+          "description": "Keyword research turned into a realistic content plan you can execute."
+        },
+        {
+          "title": "Measurable results",
+          "description": "Rank tracking and analytics setup, so progress is visible — not promised."
+        }
+      ],
+      "process": [
+        {
+          "title": "Audit",
+          "description": "A prioritized report: what's broken, what's missing, what to do first."
+        },
+        {
+          "title": "Fix",
+          "description": "I implement the technical fixes directly — no agency hand-off."
+        },
+        {
+          "title": "Grow",
+          "description": "Content and structure improvements, tracked month over month."
+        }
+      ],
+      "faq": [
+        {
+          "question": "How long until SEO shows results?",
+          "answer": "Technical fixes can show effects in weeks; content-driven growth typically takes 3–6 months. Anyone promising page one overnight is selling you something."
+        },
+        {
+          "question": "Do you offer one-time audits?",
+          "answer": "Yes — a one-time technical audit with a clear, prioritized action list is a great starting point."
+        },
+        {
+          "question": "Is SEO included when you build my site?",
+          "answer": "Every site I build ships with technical SEO fundamentals included. Ongoing SEO work is a separate engagement."
+        }
+      ]
+    },
+    "branding": {
+      "title": "Branding",
+      "metaDescription": "Logos, colors, typography and design systems that make your product recognizable and consistent.",
+      "tagline": "A brand people remember",
+      "description": "Your product deserves more than a default template look. I create focused brand identities — logo, colors, typography and a design system that scales from business card to app.",
+      "features": [
+        {
+          "title": "Logo & mark",
+          "description": "A distinctive logo with variants for app icons, favicons and social profiles."
+        },
+        {
+          "title": "Color & typography",
+          "description": "A considered palette and type pairing that work in print and on screen."
+        },
+        {
+          "title": "Design system",
+          "description": "Reusable components and tokens, so your brand stays consistent as you grow."
+        },
+        {
+          "title": "Brand guidelines",
+          "description": "A compact, practical guide — not a 90-page PDF nobody reads."
+        }
+      ],
+      "process": [
+        {
+          "title": "Discover",
+          "description": "What should people feel when they meet your brand? We define it in words first."
+        },
+        {
+          "title": "Explore",
+          "description": "Two to three visual directions, refined together with your feedback."
+        },
+        {
+          "title": "Systemize",
+          "description": "The chosen direction becomes a complete, usable brand kit."
+        }
+      ],
+      "faq": [
+        {
+          "question": "I only need a logo — is that possible?",
+          "answer": "Yes, though most clients benefit from at least colors and typography too. We'll scope it to what you actually need."
+        },
+        {
+          "question": "Can you rebrand an existing product?",
+          "answer": "Absolutely. I can evolve an existing identity carefully instead of starting from zero."
+        },
+        {
+          "question": "Do I own the brand assets?",
+          "answer": "Yes. You receive all source files and full usage rights."
+        }
+      ]
+    },
+    "consulting": {
+      "title": "Business & Technical Consulting",
+      "metaDescription": "Turn a rough business idea into a concrete, buildable product plan — technical strategy, architecture and honest advice.",
+      "tagline": "From rough idea to real plan",
+      "description": "You have an idea — but what should it actually become, and what will it take to build? I help you refine business ideas into concrete product plans with realistic scope, technology choices and budgets.",
+      "features": [
+        {
+          "title": "Idea refinement",
+          "description": "Workshops that turn 'wouldn't it be cool if…' into a sharp, testable product concept."
+        },
+        {
+          "title": "Technical strategy",
+          "description": "Architecture and technology choices that fit your budget and team — not just the hype."
+        },
+        {
+          "title": "Roadmap & estimation",
+          "description": "A realistic plan: what to build first, what it costs, and what can wait."
+        },
+        {
+          "title": "Second opinion",
+          "description": "An independent senior review of quotes, architectures or existing code."
+        }
+      ],
+      "process": [
+        {
+          "title": "Listen",
+          "description": "I dig into your goals, constraints and the market you're entering."
+        },
+        {
+          "title": "Analyze",
+          "description": "Options and trade-offs, explained in plain language."
+        },
+        {
+          "title": "Plan",
+          "description": "You leave with a concrete document you can act on — with me or any other team."
+        }
+      ],
+      "faq": [
+        {
+          "question": "I'm not technical — is this for me?",
+          "answer": "Especially then. My job is to translate between your business and the technology it needs."
+        },
+        {
+          "question": "Do you also build what you plan?",
+          "answer": "Often, yes — but there's no obligation. The plan is yours to keep either way."
+        },
+        {
+          "question": "How does consulting get billed?",
+          "answer": "Workshops and reviews are billed at a fixed day rate, agreed upfront. No surprise invoices."
+        }
+      ]
+    }
+  },
+  "legal": {
+    "lastUpdated": "Last updated: January 2026",
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "This privacy policy explains what personal data is collected on this website and how it is used. This is placeholder text and should be reviewed by a legal professional before going live.",
+      "sections": [
+        {
+          "heading": "1. Responsible party",
+          "body": "The responsible party for data processing on this website is Wiesmann Software Engineering, Bächirainstrasse 4, 6422 Steinen, Switzerland. You can reach us at m.wiesmann@wiesmann-se.ch."
+        },
+        {
+          "heading": "2. Data we collect",
+          "body": "When you contact us via the contact form or by email, we process the data you provide (name, email address, message) solely to respond to your inquiry. Server log files (IP address, browser, time of access) may be stored by our hosting provider for security and operational purposes."
+        },
+        {
+          "heading": "3. Cookies & analytics",
+          "body": "This website does not use tracking cookies. If analytics are added in the future, this policy will be updated accordingly."
+        },
+        {
+          "heading": "4. Your rights",
+          "body": "You have the right to request information about your stored personal data, its origin and recipients, and the purpose of data processing, as well as the right to correct or delete this data at any time."
+        },
+        {
+          "heading": "5. Changes",
+          "body": "We reserve the right to update this privacy policy so that it always complies with current legal requirements."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "These terms govern the use of this website and services provided by Wiesmann Software Engineering. This is placeholder text and should be reviewed by a legal professional before going live.",
+      "sections": [
+        {
+          "heading": "1. Scope",
+          "body": "These terms of service apply to the use of the website wiesmann-se.ch and to all services provided by Wiesmann Software Engineering."
+        },
+        {
+          "heading": "2. Services",
+          "body": "Wiesmann Software Engineering provides web development, mobile app development, SEO, branding and consulting services. The exact scope of each engagement is defined in an individual agreement."
+        },
+        {
+          "heading": "3. Liability",
+          "body": "The content of this website is created with care, but no guarantee is given for its accuracy, completeness or timeliness. Liability for damages arising from the use of this website is excluded to the extent permitted by law."
+        },
+        {
+          "heading": "4. Intellectual property",
+          "body": "All content on this website is the property of Wiesmann Software Engineering unless otherwise stated and may not be reproduced without permission."
+        },
+        {
+          "heading": "5. Applicable law",
+          "body": "These terms are governed by Swiss law. Place of jurisdiction is Zürich, Switzerland."
+        }
+      ]
+    }
+  }
+}

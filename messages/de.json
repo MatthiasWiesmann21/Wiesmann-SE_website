@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Wiesmann Software Engineering — Web- & Mobile-App-Entwicklung",
+      "description": "Ein-Mann-Softwarestudio für Webentwicklung, Mobile Apps, SEO, Branding und technische Beratung. Von der Idee zum fertigen Produkt."
+    },
+    "company": {
+      "title": "Unternehmen — Wiesmann Software Engineering",
+      "description": "Erfahren Sie mehr über Wiesmann Software Engineering, das Ein-Mann-Softwarestudio von Matthias Wiesmann."
+    },
+    "contact": {
+      "title": "Kontakt — Wiesmann Software Engineering",
+      "description": "Kontaktieren Sie mich zu Ihrem Web- oder Mobile-App-Projekt, SEO, Branding oder Beratungsbedarf."
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung — Wiesmann Software Engineering",
+      "description": "Datenschutzerklärung von Wiesmann Software Engineering."
+    },
+    "terms": {
+      "title": "AGB — Wiesmann Software Engineering",
+      "description": "Allgemeine Geschäftsbedingungen von Wiesmann Software Engineering."
+    }
+  },
+  "common": {
+    "nav": {
+      "home": "Start",
+      "company": "Unternehmen",
+      "solutions": "Lösungen",
+      "contact": "Kontakt"
+    },
+    "buttons": {
+      "startProject": "Projekt starten",
+      "getInTouch": "Kontakt aufnehmen",
+      "learnMore": "Mehr erfahren",
+      "viewSolution": "Lösung ansehen",
+      "send": "Nachricht senden",
+      "sending": "Wird gesendet…"
+    },
+    "languageSwitcher": {
+      "label": "Sprache",
+      "en": "EN",
+      "de": "DE"
+    },
+    "mobileMenu": {
+      "open": "Menü öffnen",
+      "close": "Menü schliessen"
+    },
+    "footer": {
+      "tagline": "Web- & Mobile-Apps, mit Sorgfalt gebaut von einem einzigen, engagierten Entwickler.",
+      "navigation": "Navigation",
+      "solutions": "Lösungen",
+      "legal": "Rechtliches",
+      "privacy": "Datenschutz",
+      "terms": "AGB",
+      "contact": "Kontakt",
+      "rights": "Alle Rechte vorbehalten."
+    },
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+      "backHome": "Zur Startseite"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Ein-Mann-Softwarestudio",
+      "title": "Ideen rein. Apps raus.",
+      "subtitle": "Ich bin Matthias — ich konzipiere, entwickle und lanciere Web- und Mobile-Anwendungen für Unternehmen, die es richtig gemacht haben wollen, nicht nur schnell.",
+      "primaryCta": "Projekt starten",
+      "secondaryCta": "Lösungen entdecken",
+      "orbitCenter": "Deine Idee"
+    },
+    "services": {
+      "eyebrow": "Was ich mache",
+      "title": "Fünf Wege, wie ich helfen kann",
+      "subtitle": "Von der ersten Skizze bis zum Launch — alles, was Ihr digitales Produkt braucht, aus einer Hand.",
+      "items": {
+        "web-development": {
+          "title": "Webentwicklung",
+          "description": "Schnelle, barrierefreie Websites und Web-Apps mit modernen Frameworks."
+        },
+        "mobile-app-development": {
+          "title": "Mobile-App-Entwicklung",
+          "description": "iOS- und Android-Apps mit nativem Gefühl aus einer Codebasis."
+        },
+        "seo": {
+          "title": "SEO",
+          "description": "Gefunden werden. Technisches und Content-SEO, das die richtigen Besucher bringt."
+        },
+        "branding": {
+          "title": "Branding",
+          "description": "Ein Auftritt, den man nicht vergisst — Logo, Farben und Designsystem."
+        },
+        "consulting": {
+          "title": "Business- & Technikberatung",
+          "description": "Ihre Idee zu einem konkreten, umsetzbaren Produktplan verfeinern."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "Das Unternehmen",
+      "title": "Ein Entwickler. Volle Verantwortung.",
+      "text": "Wiesmann Software Engineering ist mein Ein-Mann-Studio. Das heisst: Sie sprechen immer direkt mit der Person, die Ihren Code schreibt — keine Übergaben, kein Stille-Post-Spiel, keine Überraschungen.",
+      "points": [
+        "Direkte Kommunikation mit dem Entwickler",
+        "Senior-Niveau bei jedem Projekt",
+        "Ehrliche Beratung, auch wenn sie lautet: «Das brauchen Sie nicht»"
+      ],
+      "cta": "Mehr über das Unternehmen"
+    },
+    "process": {
+      "eyebrow": "So arbeiten wir",
+      "title": "Von der Idee zum Launch in vier Schritten",
+      "steps": [
+        {
+          "title": "Entdecken",
+          "description": "Wir sprechen über Ihre Ziele, Ihre Nutzer und wie Erfolg aussieht."
+        },
+        {
+          "title": "Gestalten",
+          "description": "Wireframes und eine visuelle Richtung, auf die Sie reagieren können — bevor Code entsteht."
+        },
+        {
+          "title": "Entwickeln",
+          "description": "Iterative Entwicklung mit regelmässigen Demos, damit Sie nie im Dunkeln stehen."
+        },
+        {
+          "title": "Launchen & wachsen",
+          "description": "Deployment, Analytics, SEO-Grundlagen — und Support nach dem Go-Live."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Eine Idee? Lassen Sie uns sie real machen.",
+      "subtitle": "Erzählen Sie mir von Ihrem Projekt — ich antworte innerhalb eines Werktags.",
+      "button": "Kontakt aufnehmen"
+    }
+  },
+  "company": {
+    "hero": {
+      "eyebrow": "Unternehmen",
+      "title": "Klein aus Überzeugung. Seriös von Natur aus.",
+      "subtitle": "Wiesmann Software Engineering ist bewusst ein Ein-Mann-Studio. Warum das gut für Ihr Projekt ist, erfahren Sie hier."
+    },
+    "story": {
+      "title": "Die Geschichte",
+      "paragraphs": [
+        "Nach Jahren der Entwicklung von Web- und Mobile-Produkten in Teams jeder Grösse habe ich Wiesmann Software Engineering gegründet, um so zu arbeiten, wie meiner Überzeugung nach gute Software entsteht: ein verantwortlicher Experte, nah am Kunden, von der ersten Idee bis zum finalen Deployment.",
+        "Ansässig in der Schweiz, arbeite ich mit Gründern, Kleinunternehmen und Teams, die einen Senior-Entwickler brauchen, der auch Branding, SEO und die Business-Seite des Software-Versands versteht."
+      ]
+    },
+    "founder": {
+      "title": "Der Gründer",
+      "name": "Matthias Wiesmann",
+      "role": "Gründer & Software Engineer",
+      "bio": "Web- und Mobile-Entwickler mit Erfahrung über den gesamten Produktlebenszyklus — von der Verfeinerung grober Geschäftsideen zu konkreten Anforderungen bis hin zu Design, Entwicklung, Launch und Vermarktung digitaler Produkte.",
+      "skillsTitle": "Was ich mitbringe",
+      "skills": [
+        "Webentwicklung (Next.js, React, TypeScript)",
+        "Mobile Apps (iOS & Android, plattformübergreifend)",
+        "SEO & Performance-Optimierung",
+        "Branding & Designsysteme",
+        "Produkt- & Technikberatung"
+      ]
+    },
+    "values": {
+      "title": "So arbeite ich",
+      "items": [
+        {
+          "title": "Verantwortung",
+          "description": "Ihr Projekt wird nie weitergereicht. Ich plane es, baue es und stehe dafür gerade."
+        },
+        {
+          "title": "Klarheit",
+          "description": "Klare Sprache, ehrliche Schätzungen, keine Fachjargon-Mauern. Sie wissen immer, wo die Dinge stehen."
+        },
+        {
+          "title": "Qualität",
+          "description": "Schnelle, barrierefreie, wartbare Software. Langweilige Technologie wo möglich, Innovation wo sie zählt."
+        },
+        {
+          "title": "Partnerschaft",
+          "description": "Ich habe Erfolg, wenn Ihr Produkt Erfolg hat — deshalb hinterfrage ich Ideen, die nicht funktionieren, und kämpfe für jene, die es werden."
+        }
+      ]
+    },
+    "tradeoff": {
+      "title": "Eine Person — die ehrliche Rechnung",
+      "plus": {
+        "title": "Der Preisvorteil",
+        "description": "Keine Account Manager, kein Büro-Overhead, keine Agenturmarge obendrauf. Sie zahlen für tatsächlich geleistete Senior-Arbeit — nicht dafür, ein grosses Team zu beschäftigen. Das macht professionelle Qualität spürbar günstiger."
+      },
+      "minus": {
+        "title": "Der ehrliche Haken",
+        "description": "Ich stecke meist tief in ein bis zwei Kundenprojekten und bin — Notfälle ausgenommen — nicht den ganzen Tag erreichbar. Dafür wissen Sie jederzeit genau, wann ich verfügbar bin und woran ich gerade für Sie arbeite."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Kontakt",
+      "title": "Sprechen wir über Ihr Projekt",
+      "subtitle": "Ob grobe Idee oder detailliertes Briefing — schreiben Sie mir, ich antworte innerhalb eines Werktags."
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Ihr Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "sie@beispiel.ch",
+      "subject": "Betreff",
+      "subjectPlaceholder": "Worum geht es?",
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzählen Sie mir von Ihrem Projekt…",
+      "send": "Nachricht senden",
+      "sending": "Wird gesendet…",
+      "success": "Danke! Ihre Nachricht ist unterwegs — ich melde mich bald bei Ihnen.",
+      "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie mir direkt per E-Mail.",
+      "required": "Dieses Feld ist erforderlich"
+    },
+    "info": {
+      "title": "Kontaktdaten",
+      "emailLabel": "E-Mail",
+      "addressLabel": "Adresse",
+      "socialsLabel": "Anderswo",
+      "note": "Lieber per E-Mail? Kein Problem — ich lese jede Nachricht selbst."
+    }
+  },
+  "solutions": {
+    "cta": {
+      "title": "Bereit, darüber zu sprechen?",
+      "subtitle": "Jedes Projekt beginnt mit einem kostenlosen, unverbindlichen Gespräch.",
+      "button": "Kontakt aufnehmen"
+    },
+    "featuresTitle": "Was enthalten ist",
+    "processTitle": "So funktioniert es",
+    "faqTitle": "Häufige Fragen",
+    "web-development": {
+      "title": "Webentwicklung",
+      "metaDescription": "Schnelle, barrierefreie Websites und Webanwendungen mit modernen Frameworks wie Next.js und React.",
+      "tagline": "Websites und Web-Apps, die sich sofort anfühlen",
+      "description": "Von Marketing-Sites bis zu komplexen Webanwendungen — ich baue schnelle, barrierefreie, wartbare Produkte mit modernen Werkzeugen wie Next.js, React und TypeScript.",
+      "features": [
+        {
+          "title": "Moderner Stack",
+          "description": "Next.js, React und TypeScript — bewährte Technologie, die schnell lädt und gut rankt."
+        },
+        {
+          "title": "Performance zuerst",
+          "description": "Core Web Vitals von Tag eins an im grünen Bereich, denn Geschwindigkeit ist ein Feature."
+        },
+        {
+          "title": "Barrierefrei ab Werk",
+          "description": "Semantisches HTML und WCAG-orientiertes Design, damit alle Ihr Produkt nutzen können."
+        },
+        {
+          "title": "Leicht zu warten",
+          "description": "Sauberer, dokumentierter Code, mit dem Sie (oder jeder zukünftige Entwickler) wirklich arbeiten können."
+        }
+      ],
+      "process": [
+        {
+          "title": "Umfang",
+          "description": "Wir definieren Seiten, Features und Integrationen — und streichen, was nicht gebraucht wird."
+        },
+        {
+          "title": "Design",
+          "description": "Ein klickbares Design, das Sie freigeben, bevor die Entwicklung startet."
+        },
+        {
+          "title": "Bauen & launchen",
+          "description": "Iterative Entwicklung, dann Deployment mit Analytics und SEO inklusive."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wie lange dauert eine typische Website?",
+          "answer": "Eine fokussierte Marketing-Site ist meist in 3–6 Wochen live. Grössere Webanwendungen hängen vom Umfang ab — Sie erhalten nach unserem ersten Gespräch eine ehrliche Schätzung."
+        },
+        {
+          "question": "Können Sie meine bestehende Site erweitern?",
+          "answer": "Ja. Ich übernehme und modernisiere regelmässig bestehende Codebasen und sage Ihnen ehrlich, wenn ein Neubau sinnvoller ist."
+        },
+        {
+          "question": "Hosten Sie die Website?",
+          "answer": "Ich richte das Hosting auf Ihren eigenen Konten ein (Vercel, Netlify oder Ihr eigener Server), damit alles in Ihrem Besitz bleibt."
+        }
+      ]
+    },
+    "mobile-app-development": {
+      "title": "Mobile-App-Entwicklung",
+      "metaDescription": "Plattformübergreifende iOS- und Android-Apps aus einer Codebasis — konzipiert, entwickelt und veröffentlicht.",
+      "tagline": "Eine Codebasis. Beide App Stores.",
+      "description": "Ich entwickle plattformübergreifende Mobile-Apps für iOS und Android, die sich nativ anfühlen — vom ersten Wireframe bis zur Einreichung im App Store und bei Google Play.",
+      "features": [
+        {
+          "title": "Plattformübergreifende Effizienz",
+          "description": "Eine Codebasis für iOS und Android hält die Kosten tief und die Qualität hoch."
+        },
+        {
+          "title": "Natives Gefühl",
+          "description": "Flüssige Animationen, Plattform-Konventionen und Offline-first-Verhalten, wo es zählt."
+        },
+        {
+          "title": "Store-bereit",
+          "description": "Ich übernehme Signierung, Screenshots und den Einreichungsprozess für beide Stores."
+        },
+        {
+          "title": "Backend inklusive",
+          "description": "APIs, Push-Benachrichtigungen, Auth und Datensynchronisation — das volle Paket, nicht nur die UI."
+        }
+      ],
+      "process": [
+        {
+          "title": "Validieren",
+          "description": "Wir schärfen den zentralen Anwendungsfall, den Ihre App beherrschen muss — und streichen den Rest."
+        },
+        {
+          "title": "Prototyp",
+          "description": "Ein testbarer Build auf echten Geräten innerhalb von Wochen, nicht Monaten."
+        },
+        {
+          "title": "Ausliefern & iterieren",
+          "description": "Store-Einreichung, dann gemessene Verbesserungen auf Basis realer Nutzung."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Nativ oder plattformübergreifend?",
+          "answer": "Für die meisten Business-Apps ist plattformübergreifend (z. B. React Native / Flutter) die pragmatische Wahl. Wenn Ihre App wirklich nativ sein muss, sage ich es Ihnen."
+        },
+        {
+          "question": "Was kostet eine App?",
+          "answer": "Ein fokussiertes MVP beginnt typischerweise im mittleren fünfstelligen Bereich. Nach einem kostenlosen Scoping-Gespräch erhalten Sie eine verbindliche, ehrliche Schätzung."
+        },
+        {
+          "question": "Warten Sie Apps nach dem Launch?",
+          "answer": "Ja — ich biete Wartungsverträge für Updates, Store-Anforderungen und neue OS-Versionen an."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO",
+      "metaDescription": "Technisches und Content-SEO, das die richtigen Besucher bringt — Audits, On-Page-Optimierung und messbare Ergebnisse.",
+      "tagline": "Von den richtigen Leuten gefunden werden",
+      "description": "SEO ist keine Magie — es ist solide Technik plus nützlicher Content. Ich auditiere, behebe und optimiere, damit Suchmaschinen und Menschen Ihre Site gleichermassen lieben.",
+      "features": [
+        {
+          "title": "Technisches Audit",
+          "description": "Crawlability, Indexierung, strukturierte Daten, Core Web Vitals — das ganze technische Bild."
+        },
+        {
+          "title": "On-Page-Optimierung",
+          "description": "Titel, Meta-Descriptions, Überschriften und interne Verlinkung, die zur Suchintention passen."
+        },
+        {
+          "title": "Content-Anleitung",
+          "description": "Keyword-Recherche, übersetzt in einen realistischen Content-Plan, den Sie umsetzen können."
+        },
+        {
+          "title": "Messbare Ergebnisse",
+          "description": "Rank-Tracking und Analytics-Setup, damit Fortschritt sichtbar ist — nicht nur versprochen."
+        }
+      ],
+      "process": [
+        {
+          "title": "Audit",
+          "description": "Ein priorisierter Bericht: was kaputt ist, was fehlt, was zuerst zu tun ist."
+        },
+        {
+          "title": "Beheben",
+          "description": "Ich setze die technischen Fixes direkt um — ohne Agentur-Weitergabe."
+        },
+        {
+          "title": "Wachsen",
+          "description": "Content- und Strukturverbesserungen, Monat für Monat verfolgt."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wie lange dauert es, bis SEO wirkt?",
+          "answer": "Technische Fixes können in Wochen wirken; Content-getriebenes Wachstum dauert typischerweise 3–6 Monate. Wer Seite eins über Nacht verspricht, will Ihnen etwas verkaufen."
+        },
+        {
+          "question": "Bieten Sie einmalige Audits an?",
+          "answer": "Ja — ein einmaliges technisches Audit mit klarer, priorisierter Aktionsliste ist ein guter Startpunkt."
+        },
+        {
+          "question": "Ist SEO enthalten, wenn Sie meine Site bauen?",
+          "answer": "Jede von mir gebaute Site wird mit technischen SEO-Grundlagen ausgeliefert. Laufende SEO-Arbeit ist ein separates Engagement."
+        }
+      ]
+    },
+    "branding": {
+      "title": "Branding",
+      "metaDescription": "Logos, Farben, Typografie und Designsysteme, die Ihr Produkt wiedererkennbar und konsistent machen.",
+      "tagline": "Eine Marke, die in Erinnerung bleibt",
+      "description": "Ihr Produkt verdient mehr als einen Standard-Template-Look. Ich entwickle fokussierte Markenidentitäten — Logo, Farben, Typografie und ein Designsystem, das von der Visitenkarte bis zur App skaliert.",
+      "features": [
+        {
+          "title": "Logo & Zeichen",
+          "description": "Ein unverwechselbares Logo mit Varianten für App-Icons, Favicons und Social Profiles."
+        },
+        {
+          "title": "Farbe & Typografie",
+          "description": "Eine durchdachte Palette und Schriftpaarung, die in Print und auf dem Bildschirm funktioniert."
+        },
+        {
+          "title": "Designsystem",
+          "description": "Wiederverwendbare Komponenten und Tokens, damit Ihre Marke beim Wachsen konsistent bleibt."
+        },
+        {
+          "title": "Brand Guidelines",
+          "description": "Ein kompakter, praktischer Leitfaden — kein 90-seitiges PDF, das niemand liest."
+        }
+      ],
+      "process": [
+        {
+          "title": "Entdecken",
+          "description": "Was sollen Menschen fühlen, wenn sie Ihrer Marke begegnen? Wir definieren es zuerst in Worten."
+        },
+        {
+          "title": "Explorieren",
+          "description": "Zwei bis drei visuelle Richtungen, gemeinsam mit Ihrem Feedback verfeinert."
+        },
+        {
+          "title": "Systematisieren",
+          "description": "Die gewählte Richtung wird ein komplettes, nutzbares Brand Kit."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ich brauche nur ein Logo — geht das?",
+          "answer": "Ja, obwohl die meisten Kunden auch von Farben und Typografie profitieren. Wir schneiden es auf das zu, was Sie wirklich brauchen."
+        },
+        {
+          "question": "Können Sie ein bestehendes Produkt rebranden?",
+          "answer": "Absolut. Ich kann eine bestehende Identität behutsam weiterentwickeln, statt bei null anzufangen."
+        },
+        {
+          "question": "Gehören mir die Marken-Assets?",
+          "answer": "Ja. Sie erhalten alle Quelldateien und vollständige Nutzungsrechte."
+        }
+      ]
+    },
+    "consulting": {
+      "title": "Business- & Technikberatung",
+      "metaDescription": "Eine grobe Geschäftsidee in einen konkreten, umsetzbaren Produktplan verwandeln — Technikstrategie, Architektur und ehrliche Beratung.",
+      "tagline": "Von der groben Idee zum echten Plan",
+      "description": "Sie haben eine Idee — aber was soll daraus konkret werden, und was braucht es, um sie zu bauen? Ich helfe Ihnen, Geschäftsideen zu konkreten Produktplänen mit realistischem Umfang, Technologieentscheiden und Budgets zu verfeinern.",
+      "features": [
+        {
+          "title": "Ideenverfeinerung",
+          "description": "Workshops, die «wäre es nicht cool, wenn…» in ein scharfes, testbares Produktkonzept verwandeln."
+        },
+        {
+          "title": "Technikstrategie",
+          "description": "Architektur- und Technologieentscheide, die zu Ihrem Budget und Team passen — nicht nur zum Hype."
+        },
+        {
+          "title": "Roadmap & Schätzung",
+          "description": "Ein realistischer Plan: was zuerst gebaut wird, was es kostet und was warten kann."
+        },
+        {
+          "title": "Zweitmeinung",
+          "description": "Ein unabhängiges Senior-Review von Offerten, Architekturen oder bestehendem Code."
+        }
+      ],
+      "process": [
+        {
+          "title": "Zuhören",
+          "description": "Ich vertiefe mich in Ihre Ziele, Rahmenbedingungen und den Markt, in den Sie einsteigen."
+        },
+        {
+          "title": "Analysieren",
+          "description": "Optionen und Trade-offs, in klarer Sprache erklärt."
+        },
+        {
+          "title": "Planen",
+          "description": "Sie gehen mit einem konkreten Dokument, das Sie umsetzen können — mit mir oder einem anderen Team."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Ich bin nicht technisch — ist das etwas für mich?",
+          "answer": "Gerade dann. Meine Aufgabe ist es, zwischen Ihrem Business und der Technologie zu übersetzen, die es braucht."
+        },
+        {
+          "question": "Bauen Sie auch, was Sie planen?",
+          "answer": "Oft ja — aber es gibt keine Verpflichtung. Der Plan gehört Ihnen in jedem Fall."
+        },
+        {
+          "question": "Wie wird Beratung abgerechnet?",
+          "answer": "Workshops und Reviews werden zu einem fixen Tagessatz abgerechnet, der im Voraus vereinbart wird. Keine Überraschungsrechnungen."
+        }
+      ]
+    }
+  },
+  "legal": {
+    "lastUpdated": "Zuletzt aktualisiert: Januar 2026",
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "intro": "Diese Datenschutzerklärung erklärt, welche personenbezogenen Daten auf dieser Website erhoben und wie sie verwendet werden. Dies ist ein Platzhaltertext und sollte vor dem Go-Live juristisch geprüft werden.",
+      "sections": [
+        {
+          "heading": "1. Verantwortliche Stelle",
+          "body": "Verantwortlich für die Datenbearbeitung auf dieser Website ist Wiesmann Software Engineering, Bächirainstrasse 4, 6422 Steinen, Schweiz. Erreichbar unter m.wiesmann@wiesmann-se.ch."
+        },
+        {
+          "heading": "2. Daten, die wir erheben",
+          "body": "Wenn Sie uns über das Kontaktformular oder per E-Mail kontaktieren, bearbeiten wir die von Ihnen angegebenen Daten (Name, E-Mail-Adresse, Nachricht) ausschliesslich zur Beantwortung Ihrer Anfrage. Server-Logdateien (IP-Adresse, Browser, Zugriffszeit) können von unserem Hosting-Anbieter zu Sicherheits- und Betriebszwecken gespeichert werden."
+        },
+        {
+          "heading": "3. Cookies & Analytics",
+          "body": "Diese Website verwendet keine Tracking-Cookies. Sollten künftig Analysewerkzeuge eingesetzt werden, wird diese Erklärung entsprechend aktualisiert."
+        },
+        {
+          "heading": "4. Ihre Rechte",
+          "body": "Sie haben jederzeit das Recht, Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger sowie den Zweck der Datenbearbeitung zu verlangen, sowie das Recht auf Berichtigung oder Löschung dieser Daten."
+        },
+        {
+          "heading": "5. Änderungen",
+          "body": "Wir behalten uns vor, diese Datenschutzerklärung zu aktualisieren, damit sie stets den aktuellen rechtlichen Anforderungen entspricht."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Allgemeine Geschäftsbedingungen",
+      "intro": "Diese Bedingungen regeln die Nutzung dieser Website und der Dienstleistungen von Wiesmann Software Engineering. Dies ist ein Platzhaltertext und sollte vor dem Go-Live juristisch geprüft werden.",
+      "sections": [
+        {
+          "heading": "1. Geltungsbereich",
+          "body": "Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der Website wiesmann-se.ch sowie für alle Dienstleistungen von Wiesmann Software Engineering."
+        },
+        {
+          "heading": "2. Dienstleistungen",
+          "body": "Wiesmann Software Engineering erbringt Dienstleistungen in den Bereichen Webentwicklung, Mobile-App-Entwicklung, SEO, Branding und Beratung. Der genaue Umfang jedes Auftrags wird in einer individuellen Vereinbarung festgelegt."
+        },
+        {
+          "heading": "3. Haftung",
+          "body": "Die Inhalte dieser Website werden mit Sorgfalt erstellt, es wird jedoch keine Gewähr für deren Richtigkeit, Vollständigkeit oder Aktualität übernommen. Eine Haftung für Schäden aus der Nutzung dieser Website ist im gesetzlich zulässigen Umfang ausgeschlossen."
+        },
+        {
+          "heading": "4. Geistiges Eigentum",
+          "body": "Alle Inhalte dieser Website sind, sofern nicht anders angegeben, Eigentum von Wiesmann Software Engineering und dürfen ohne Genehmigung nicht vervielfältigt werden."
+        },
+        {
+          "heading": "5. Anwendbares Recht",
+          "body": "Diese Bedingungen unterstehen schweizerischem Recht. Gerichtsstand ist Zürich, Schweiz."
+        }
+      ]
+    }
+  }
+}
